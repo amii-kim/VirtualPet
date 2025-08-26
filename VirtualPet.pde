@@ -1,8 +1,10 @@
 
 void setup(){
-  //some of your code here
+size (400,400);
 }
-void draw(){
-  //more of your code here
+
+void draw() {
+ellipse(200,200,310,260);
+arc(200,200,240,200,0,PI);
 }
 
